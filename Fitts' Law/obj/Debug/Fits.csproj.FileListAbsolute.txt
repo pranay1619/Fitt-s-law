@@ -1,0 +1,17 @@
+F:\Nag\nagfirst\Fits\Fits\bin\Debug\Fits.exe.config
+F:\Nag\nagfirst\Fits\Fits\bin\Debug\Fits.exe
+F:\Nag\nagfirst\Fits\Fits\bin\Debug\Fits.pdb
+F:\Nag\nagfirst\Fits\Fits\obj\Debug\Fits.csprojResolveAssemblyReference.cache
+F:\Nag\nagfirst\Fits\Fits\obj\Debug\Fits.Form1.resources
+F:\Nag\nagfirst\Fits\Fits\obj\Debug\Fits.Properties.Resources.resources
+F:\Nag\nagfirst\Fits\Fits\obj\Debug\Fits.csproj.GenerateResource.Cache
+F:\Nag\nagfirst\Fits\Fits\obj\Debug\Fits.exe
+F:\Nag\nagfirst\Fits\Fits\obj\Debug\Fits.pdb
+F:\Nag\Fits\bin\Debug\Fits.exe.config
+F:\Nag\Fits\obj\Debug\Fits.exe
+F:\Nag\Fits\obj\Debug\Fits.pdb
+F:\Nag\Fits\bin\Debug\Fits.exe
+F:\Nag\Fits\bin\Debug\Fits.pdb
+F:\Nag\Fits\obj\Debug\Fits.Form1.resources
+F:\Nag\Fits\obj\Debug\Fits.Properties.Resources.resources
+F:\Nag\Fits\obj\Debug\Fits.csproj.GenerateResource.Cache
